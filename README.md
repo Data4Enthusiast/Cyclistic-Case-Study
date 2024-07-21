@@ -62,6 +62,18 @@ The second phase of analysis employed Microsoft SQL Server Management Studio to 
 ## Analyze
 The data has been prepared, cleaned, and processed, and is now ready for analysis. Calculations will be conducted on the cleaned and consistent data to identify trends, relationships, and patterns. This analysis aims to establish the differences between casual riders and annual members. The attached Analysis file will show the steps completed during this phase. 
 
+![image](https://github.com/user-attachments/assets/d9dd195b-2afc-44df-9bd8-3ba298d50ecc)
+ ![image](https://github.com/user-attachments/assets/83b9213d-5a17-40f8-b7e9-7a6d8ca8e7aa)
+ 
+![image](https://github.com/user-attachments/assets/114b34b7-6cda-4ccb-9eac-17ed04d0025a)
+
+![image](https://github.com/user-attachments/assets/06877ba7-f40a-4822-8b49-152db33efd87)
+
+![image](https://github.com/user-attachments/assets/7e45810b-d50b-49b1-9337-8bf639756701)
+![image](https://github.com/user-attachments/assets/61566765-ddae-45d7-93ad-3955ef355e9e)
+
+
+
 ## Data Visualizations
 ![image](https://github.com/user-attachments/assets/fd91b649-8957-4a75-b540-56d5de9b73b4)
 ![image](https://github.com/user-attachments/assets/0c832c6f-9a61-4b82-9f50-b442bc5da6f1)
